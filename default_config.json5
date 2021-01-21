@@ -1,0 +1,20 @@
+{
+    "0x321": { // mt6735
+        "watchdog_address": 0x10212000,
+        "var_0": 0x10,
+        "var_1": 0x28,
+        "payload": "mt6735_payload.bin"
+    },
+
+    "0x766": { // mt6765
+        "var_0": 0x2C,
+        "var_1": 0x25,
+        "payload": "mt6765_payload.bin"
+    },
+
+    "0x813": { // mt6785
+        "var_0": 0x20,
+        "var_1": 0xA,
+        "payload": "mt6785_payload.bin"
+    }
+}
