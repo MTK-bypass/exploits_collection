@@ -8,8 +8,8 @@
     "0x6572": { // mt6572
         "payload": "mt6572_payload.bin",
         "payload_address": 0x10036A0,
-        "ptr_usbdl": 0xba68,
-        "ptr_da": 0xbefc,
+        "ptr_usbdl": 0x40ba68,
+        "ptr_da": 0x40befc,
     },
 
     "0x6580": { // mt6580
@@ -146,7 +146,7 @@
 
     "0x816": { // mt6885
         "payload": "mt6885_payload.bin",
-        "ptr_usbdl": 0xe6fc,
+        "ptr_usbdl": 0xe6b8,
         "ptr_da": 0xebbc,
     },
 
@@ -210,7 +210,7 @@
 
     "0x8590": { // mt8590
         "payload": "mt8590_payload.bin",
-        "ptr_usbdl": 0xea64,
+        "ptr_usbdl": 0xbbe4,
         "ptr_da": 0xc06c,
     },
 }
